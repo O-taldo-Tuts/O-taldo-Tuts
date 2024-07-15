@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthur-dias-oliveira-485b0a1a)
 [![whatssap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988933283)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://wa.me/5511988933283)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/O-taldo-Tuts?tab=repositories)
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=O-taldo-Tuts&show_icons=true&theme=radical)
 
